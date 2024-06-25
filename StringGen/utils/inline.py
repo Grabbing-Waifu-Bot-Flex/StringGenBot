@@ -9,7 +9,13 @@ keyboard = InlineKeyboardMarkup(
         [
             InlineKeyboardButton(text="sᴜᴘᴘᴏʀᴛ", url=SUPPORT_CHAT),
             InlineKeyboardButton(
-                text="Master", url="https://t.me/FLEXDUB_OFFICIAL"
+                text="ᴍᴀ𝗌ᴛᴇʀ", url="https://t.me/FLEXDUB_OFFICIAL"
+            ),
+        ],
+[
+            InlineKeyboardButton(text="ᴜᴘᴅᴀᴛᴇ𝗌", url=SUPPORT_CHAT),
+            InlineKeyboardButton(
+                text="ʙᴏᴛ𝗌", url="https://t.me/FLEXX_OFFICIAL"
             ),
         ],
     ]
