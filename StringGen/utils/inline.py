@@ -13,7 +13,7 @@ keyboard = InlineKeyboardMarkup(
             ),
         ],
 [
-            InlineKeyboardButton(text="ᴜᴘᴅᴀᴛᴇ𝗌", url=SUPPORT_CHAT),
+            InlineKeyboardButton(text="ᴜᴘᴅᴀᴛᴇ𝗌", url="https://t.me/FleX_Bots_News"),
             InlineKeyboardButton(
                 text="ʙᴏᴛ𝗌", url="https://t.me/FLEXX_OFFICIAL"
             ),
